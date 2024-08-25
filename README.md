@@ -19,7 +19,7 @@
 
 <img align="center" src="https://giphy.com/embed/e7zqWi1eo9ZBL4vMCk" style="max-width: 100%"/>
 
-
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/e7zqWi1eo9ZBL4vMCk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/e7zqWi1eo9ZBL4vMCk">via GIPHY</a></p>
 
 <br>
 <div align="center">

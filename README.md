@@ -1,6 +1,7 @@
-## Olá!!! Eu sou Cláudio Azevedo
+## Olá Rede!!! Eu sou Cláudio Azevedo
 <br>
-
+<li> 🎓 Formado em Redes de Computadores - UNIBRA
+<li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
 - 😎 Estudante de desenvolvimento BackEnd / FrontEnd
 - 💬 Entusiasta da tecnologia
 - 📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
@@ -8,8 +9,6 @@
 
 ## Progresso 📚
 
-<li> 🎓 Formado em Redes de Computadores - UNIBRA
-<li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
 <li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA
 <li> 📚 FAP Softex 2023 Concluido! BackEnd com JavaScript / TypeScript
 <li> 📚 FAP Softex 2024 em curso, FrontEnd com React / TypeScript - Em busca do FullStack</li>

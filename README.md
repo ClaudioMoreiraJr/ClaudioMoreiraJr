@@ -18,7 +18,8 @@
 <li> 🎓 Formado em Redes de Computadores - UNIBRA
 <li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
 <li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA
-<li> ✍️ Cursando o FAP Softex, BackEnd com JavaScript</li>
+<li> 📚 FAP Softex 2023 Concluido! BackEnd com JavaScript / TypeScript
+<li> 📚 FAP Softex 2024 em curso, FrontEnd com React / TypeScript - Em busca do FullStack</li>
 <br><br><br>
 <br>
 <div align="center">

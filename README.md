@@ -19,8 +19,7 @@
 
 <img align="right" src="https://giphy.com/embed/e7zqWi1eo9ZBL4vMCk" width="480" height="317" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/e7zqWi1eo9ZBL4vMCk" style="max-width: 100%;">
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](<iframe src="https://giphy.com/embed/e7zqWi1eo9ZBL4vMCk" width="480" height="317" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/e7zqWi1eo9ZBL4vMCk">via GIPHY</a></p>)
-<br><br>
+
 
 <br>
 <div align="center">

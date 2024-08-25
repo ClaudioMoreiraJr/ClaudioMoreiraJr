@@ -7,8 +7,7 @@
 - 🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
 
 ## Progresso 📚
-<img align="right" src="https://www.pngitem.com/middle/Jxihwo_software-hire-developers-hd-png-download" width="300"/>
-<br><br>
+
 <li> 🎓 Formado em Redes de Computadores - UNIBRA
 <li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
 <li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA

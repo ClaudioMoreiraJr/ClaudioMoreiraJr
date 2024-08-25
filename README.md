@@ -19,10 +19,6 @@
 
 <img align="right" src="https://camo.githubusercontent.com/f7cbde23da30f907823f097c5b89c470e050017ebab9525482036ed4eae89d55/68747470733a2f2f6564756172646f2d6b726f706e69637a6b692e75702e7261696c7761792e6170702f64656b7475702e737667" width="250" data-canonical-src="https://eduardo-kropniczki.up.railway.app/dektup.svg" style="max-width: 100%;">
 
-<img align="right" ssrc="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="250" data-canonical-src="https://eduardo-kropniczki.up.railway.app/dektup.svg" style="max-width: 100%;">
-
-<iframe src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">via GIPHY</a></p>
-
 <br>
 <div align="center">
   <a href="https://github.com/claudioazevedojr">

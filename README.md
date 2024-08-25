@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Cláudio Azevedo
 <br>
 
-- 😎 Estudante de desenvolvimento BackEnd
+- 😎 Estudante de desenvolvimento BackEnd / FrontEnd
 - 💬 Entusiasta da tecnologia
 - 📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
 - 🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire

@@ -2,10 +2,10 @@
 <br>
 <li> 🎓 Formado em Redes de Computadores - UNIBRA
 <li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
-- 😎 Estudante de desenvolvimento BackEnd / FrontEnd
-- 💬 Entusiasta da tecnologia
-- 📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
-- 🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
+<li>😎 Estudante de desenvolvimento BackEnd / FrontEnd
+<li>💬 Entusiasta da tecnologia
+<li>📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
+<li>🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
 
 ## Progresso 📚
 

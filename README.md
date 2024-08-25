@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img align="right" src="https://giphy.com/embed/e7zqWi1eo9ZBL4vMCk" style="max-width: 100%;">
+<img align="center" src="https://giphy.com/embed/e7zqWi1eo9ZBL4vMCk" style="max-width: 100%"/>
 
 
 

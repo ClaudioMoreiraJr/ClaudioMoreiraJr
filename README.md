@@ -8,7 +8,7 @@
 <li>🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
 
 ## Progresso 📚
-
+<br>
 <li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA
 <li> 📚 FAP Softex 2023 Concluido! BackEnd com JavaScript / TypeScript
 <li> 📚 FAP Softex 2024 em curso, FrontEnd com React / TypeScript - Em busca do FullStack</li>

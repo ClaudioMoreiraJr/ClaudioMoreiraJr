@@ -6,7 +6,16 @@
 - 📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
 - 🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
 
-
+## Progresso 📚
+<img align="right" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="300"/>
+<br><br>
+<li> 🎓 Formado em Redes de Computadores - UNIBRA
+<li> 🎓 Pós graduado em Engenharia de Software - Faculdade Focus
+<li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA
+<li> 📚 FAP Softex 2023 Concluido! BackEnd com JavaScript / TypeScript
+<li> 📚 FAP Softex 2024 em curso, FrontEnd com React / TypeScript - Em busca do FullStack</li>
+<br><br><br>
+<br>
 
 <br><br>
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://img.ibxk.com.br/2015/07/15/15105231448568.gif)

@@ -7,6 +7,8 @@
 <li>📫 Como entrar em contato comigo: claudioazevedojr@hotmail.com
 <li>🚀 "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." - Paulo Freire
 
+
+
 ## Progresso 📚
 <br>
 <li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS, JS, JAVA
